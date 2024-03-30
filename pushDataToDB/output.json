@@ -1,0 +1,866 @@
+[
+    {
+      "Apple": {
+        "2024-03-29 15:36:45": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 351,
+        "Min Temp": 351,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 901,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 1,
+      "Transit ID": 1,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Banana": {
+        "2024-03-29 15:36:45": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 400,
+        "Min Temp": 400,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 953,
+        "Min Humidity": 953
+      },
+      "Fruit ID": 2,
+      "Transit ID": 1,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Grapes": {
+        "2024-03-29 15:36:45": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 1
+        },
+        "Max Temp": 32,
+        "Min Temp": 32,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 95,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 3,
+      "Transit ID": 1,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Lemons": {
+        "2024-03-29 15:36:45": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 50,
+        "Min Temp": 50,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 4,
+      "Transit ID": 1,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Mangoes": {
+        "2024-03-29 15:36:45": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 55,
+        "Min Temp": 55,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 5,
+      "Transit ID": 1,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Tomatoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 85,
+        "Min Temp": 85,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 85,
+        "Min Humidity": 60
+      },
+      "Fruit ID": 6,
+      "Transit ID": 1,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Apple": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 351,
+        "Min Temp": 351,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 901,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 1,
+      "Transit ID": 2,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Banana": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 400,
+        "Min Temp": 400,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 953,
+        "Min Humidity": 953
+      },
+      "Fruit ID": 2,
+      "Transit ID": 2,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Grapes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 1
+        },
+        "Max Temp": 32,
+        "Min Temp": 32,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 95,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 3,
+      "Transit ID": 2,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Lemons": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 50,
+        "Min Temp": 50,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 4,
+      "Transit ID": 2,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Mangoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 55,
+        "Min Temp": 55,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 5,
+      "Transit ID": 2,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Tomatoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 85,
+        "Min Temp": 85,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 85,
+        "Min Humidity": 60
+      },
+      "Fruit ID": 6,
+      "Transit ID": 2,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Apple": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 351,
+        "Min Temp": 351,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 901,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 1,
+      "Transit ID": 3,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "Newfoundland",
+      "Destination": "BritishColumbia",
+      "Sent": 40
+    },
+    {
+      "Banana": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 400,
+        "Min Temp": 400,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 953,
+        "Min Humidity": 953
+      },
+      "Fruit ID": 2,
+      "Transit ID": 3,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "Newfoundland",
+      "Destination": "BritishColumbia",
+      "Sent": 40
+    },
+    {
+      "Grapes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 1
+        },
+        "Max Temp": 32,
+        "Min Temp": 32,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 95,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 3,
+      "Transit ID": 3,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "Newfoundland",
+      "Destination": "BritishColumbia",
+      "Sent": 40
+    },
+    {
+      "Lemons": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 50,
+        "Min Temp": 50,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 4,
+      "Transit ID": 3,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "Newfoundland",
+      "Destination": "BritishColumbia",
+      "Sent": 40
+    },
+    {
+      "Mangoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 55,
+        "Min Temp": 55,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 5,
+      "Transit ID": 3,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "Newfoundland",
+      "Destination": "BritishColumbia",
+      "Sent": 40
+    },
+    {
+      "Tomatoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 85,
+        "Min Temp": 85,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 85,
+        "Min Humidity": 60
+      },
+      "Fruit ID": 6,
+      "Transit ID": 3,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "Newfoundland",
+      "Destination": "BritishColumbia",
+      "Sent": 40
+    },
+    {
+      "Apple": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 351,
+        "Min Temp": 351,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 901,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 1,
+      "Transit ID": 4,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Banana": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 400,
+        "Min Temp": 400,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 953,
+        "Min Humidity": 953
+      },
+      "Fruit ID": 2,
+      "Transit ID": 4,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Grapes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 1
+        },
+        "Max Temp": 32,
+        "Min Temp": 32,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 95,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 3,
+      "Transit ID": 4,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Lemons": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 50,
+        "Min Temp": 50,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 4,
+      "Transit ID": 4,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Mangoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 55,
+        "Min Temp": 55,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 5,
+      "Transit ID": 4,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Tomatoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 85,
+        "Min Temp": 85,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 85,
+        "Min Humidity": 60
+      },
+      "Fruit ID": 6,
+      "Transit ID": 4,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NewBrunswick",
+      "Destination": "NovaScotia",
+      "Sent": 40
+    },
+    {
+      "Apple": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 351,
+        "Min Temp": 351,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 901,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 1,
+      "Transit ID": 5,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Banana": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 400,
+        "Min Temp": 400,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 953,
+        "Min Humidity": 953
+      },
+      "Fruit ID": 2,
+      "Transit ID": 5,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Grapes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 1
+        },
+        "Max Temp": 32,
+        "Min Temp": 32,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 95,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 3,
+      "Transit ID": 5,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Lemons": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 50,
+        "Min Temp": 50,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 4,
+      "Transit ID": 5,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Mangoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 55,
+        "Min Temp": 55,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 5,
+      "Transit ID": 5,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Tomatoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 85,
+        "Min Temp": 85,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 85,
+        "Min Humidity": 60
+      },
+      "Fruit ID": 6,
+      "Transit ID": 5,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "BritishColumbia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Apple": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 351,
+        "Min Temp": 351,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 901,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 1,
+      "Transit ID": 6,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NovaScotia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Banana": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 400,
+        "Min Temp": 400,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 953,
+        "Min Humidity": 953
+      },
+      "Fruit ID": 2,
+      "Transit ID": 6,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NovaScotia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Grapes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 1
+        },
+        "Max Temp": 32,
+        "Min Temp": 32,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 95,
+        "Min Humidity": 90
+      },
+      "Fruit ID": 3,
+      "Transit ID": 6,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NovaScotia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Lemons": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 50,
+        "Min Temp": 50,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 4,
+      "Transit ID": 6,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NovaScotia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Mangoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 55,
+        "Min Temp": 55,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 90,
+        "Min Humidity": 85
+      },
+      "Fruit ID": 5,
+      "Transit ID": 6,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NovaScotia",
+      "Destination": "Alberta",
+      "Sent": 40
+    },
+    {
+      "Tomatoes": {
+        "2024-03-29 15:36:46": {
+          "Temp": 125.35722788902221,
+          "CO2": 423.2440926953,
+          "Humidity": 81.85851013042813,
+          "Days": 1,
+          "Spoiled": 0
+        },
+        "Max Temp": 85,
+        "Min Temp": 85,
+        "Max Co2": 450,
+        "Min Co2": 300,
+        "Max Humidity": 85,
+        "Min Humidity": 60
+      },
+      "Fruit ID": 6,
+      "Transit ID": 6,
+      "Region ID": 1,
+      "Region Name": "CA",
+      "Start": "NovaScotia",
+      "Destination": "Alberta",
+      "Sent": 40
+    }
+  ]

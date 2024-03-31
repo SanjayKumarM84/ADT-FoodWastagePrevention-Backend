@@ -70,7 +70,7 @@ class Data_Generator():
         for transit in Transit_Information:
             data = dict()
             for fruit_vegie in Fruits_Vegies:
-                print(f"\n\n\n\n{fruit_vegie.get_value()}\n\n\n\n\n")
+                # print(f"\n\n\n\n{fruit_vegie.get_value()}\n\n\n\n\n")
                 fruit_data = {}
                 info = fruit_vegie.get_info()
                 time_str = time.strftime("%Y-%m-%d %H:%M:%S")
@@ -136,7 +136,7 @@ class Data_Generator():
         """
         global number_of_days
         number_of_days += 1
-        print(f"days passed: {number_of_days}")
+        # print(f"days passed: {number_of_days}")
  
     def start(self):
         sc.every(1).seconds.do(self.generate_random_values)

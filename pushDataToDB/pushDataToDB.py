@@ -14,6 +14,7 @@ def convert_np_types(obj):
 
 def pushDataToSQL(dataFromSensors):
 
+    # print(dataFromSensors)
     conn = None  # Initialize conn variable
     listOfFruits = ["Apple", "Banana", "Grapes", "Lemons", "Mangoes", "Tomatoes"]
 
@@ -94,8 +95,9 @@ def pushDataToSQL(dataFromSensors):
 
                 # Check if the row already exists
                 cursor.execute("SELECT COUNT(*) FROM Transit Where Transit_Id = ? AND Fruit_ID = ? AND \
-                            Region_ID = ? AND Start = ? AND Destination = ?", \
-                                transitID, fruitID, regionID, start, destination)
+                                            Region_ID = ? AND Start = ? AND Destination = ?", \
+                                                (transitID, fruitID, regionID, start, destination))
+
                 row_count = cursor.fetchone()[0]
 
                 if row_count > 0:  # Row already exists
@@ -108,10 +110,19 @@ def pushDataToSQL(dataFromSensors):
                     # Convert existing JSON string to Python dictionary
                     existing_data = json.loads(existing_json)
 
+                    print(existing_data)
+                    
+                    # Check if existing_data is already a dictionary, if not, initialize it as an empty dictionary
+                    if not existing_data:
+                        existing_data = {}
+
                     timestamp_data = json.dumps(timestamp_data, default=convert_np_types)
 
-                    # Merge existing data with new data
-                    existing_data.update(timestamp_data)
+                    timestamp_data = json.loads(timestamp_data)
+
+                    for timestamp_key, timestamp_value in timestamp_data.items():
+                        # Add the timestamp key and its corresponding value to existing_data
+                        existing_data[timestamp_key] = timestamp_value
 
                     # Convert merged data back to JSON string
                     updated_json = json.dumps(existing_data)
@@ -121,6 +132,10 @@ def pushDataToSQL(dataFromSensors):
                                 Loss_Percent = ?, Spoiled =? Where Transit_Id = ? AND Fruit_ID = ? AND Region_ID = ? AND Start = ? \
                                 AND Destination = ?", updated_json, sent, received, lossPercent, spoiled, transitID, fruitID, \
                                     regionID, start, destination)
+
+                    print("Data updated successfully.")
+
+
                 else:  # Row doesn't exist, insert new row
                     # Convert new JSON data to JSON string
                     new_json = json.dumps(timestamp_data, default=convert_np_types)
@@ -134,12 +149,11 @@ def pushDataToSQL(dataFromSensors):
                                 Loss_Percent = ?, Spoiled =? Where Transit_Id = ? AND Fruit_ID = ? AND Region_ID = ? AND Start = ? \
                                 AND Destination = ?", sent, received, lossPercent, spoiled, transitID, fruitID, \
                                     regionID, start, destination)
+                    
+                    print("Data inserted successfully.")
 
                 # Commit the transaction
                 conn.commit()
-
-                print("Data updated/inserted successfully.")
-
 
     except Exception as e:
         print(traceback.print_exc())
